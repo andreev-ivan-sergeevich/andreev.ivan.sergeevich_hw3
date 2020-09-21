@@ -1,2 +1,5 @@
 Hello world
 My new rating
+
+
+Message was added
